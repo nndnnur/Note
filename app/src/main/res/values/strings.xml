@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyNote</string>
+    <string name="daftar_catatan">List Notes</string>
+    <string name="judul_catatan">Title</string>
+    <string name="simpan">Save</string>
+    <string name="konten_catatan">Note</string>
+    <string name="batal">Cancel</string>
+</resources>
